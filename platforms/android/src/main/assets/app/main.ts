@@ -4,6 +4,18 @@ import { AppModule } from "./app.module";
 import { UserService } from "./shared/user/user.service";
 
 import firebase = require("nativescript-plugin-firebase");
+import { Router } from "@angular/router";
+import {
+    getBoolean,
+    setBoolean,
+    getNumber,
+    setNumber,
+    getString,
+    setString,
+    hasKey,
+    remove,
+    clear
+} from "application-settings";
 
 /*firebase.init({
   //persist should be set to false as otherwise numbers aren't returned during livesync
@@ -51,4 +63,30 @@ import firebase = require("nativescript-plugin-firebase");
     console.log("firebase.init error: " + error);
   }
 );
+
+
+export class Main{
+
+public noBoolKey: boolean;
+  constructor(private router: Router){
+    
+    this.noBoolKey = hasKey("noBoolKey");
+    if(this.noBoolKey)
+    {
+      console.log("If manin------");
+      this.router.navigate(["/mainfragment"]);
+    }
+    else
+    {
+      console.log("else main --------");
+      this.router.navigate(["/login"]);
+    }
+ 
+  
+  }
+  
+
+}
+
+
 platformNativeScriptDynamic().bootstrapModule(AppModule);

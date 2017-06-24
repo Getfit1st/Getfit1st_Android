@@ -4,6 +4,17 @@ import { StackLayout } from "ui/layouts/stack-layout";
 
 import { TabView, SelectedIndexChangedEventData, TabViewItem } from "ui/tab-view";
 import { Router } from '@angular/router';
+import {
+    getBoolean,
+    setBoolean,
+    getNumber,
+    setNumber,
+    getString,
+    setString,
+    hasKey,
+    remove,
+    clear
+} from "application-settings";
 
 @Component({
     selector: "mainfragment",
@@ -49,6 +60,11 @@ export class MainFragmentComponent {
                   '/mainfragment',
                   { outlets: { chatoutlet: ['chat'] } }
                 ]);
+              }
+              logout(){
+                console.log("Log out tapped---");
+                 clear();//clear all application settings
+                this.router.navigate(["/login"]);
               }
     
     

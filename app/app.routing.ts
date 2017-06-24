@@ -5,7 +5,7 @@ import { ScheduleComponent } from "./pages/schedule/schedule.component";
 import { ChatComponent } from "./pages/chat/chat.component";
 
 export const routes = [
-  { path: "", component: LoginComponent },
+  { path: "login", component: LoginComponent },
   
   
   { path: 'mainfragment', component: MainFragmentComponent, children: [
