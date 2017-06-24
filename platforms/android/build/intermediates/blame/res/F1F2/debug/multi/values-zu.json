@@ -1,0 +1,577 @@
+[
+    {
+        "outputFile": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/incremental/mergeF1F2DebugResources/merged.dir/values-zu/values-zu.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 107,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 107,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 106,
+                    "endOffset": 315
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 106,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 320,
+                    "endColumn": 113,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 506,
+                        "endColumn": 113,
+                        "endOffset": 615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 87,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 620,
+                        "endColumn": 87,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 102,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 102,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 625,
+                    "endColumn": 126,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 126,
+                        "endOffset": 933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 103,
+                    "endOffset": 851
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 938,
+                        "endColumn": 103,
+                        "endOffset": 1037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 856,
+                    "endColumn": 105,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1042,
+                        "endColumn": 105,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 97,
+                    "endOffset": 1055
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 97,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1060,
+                    "endColumn": 106,
+                    "endOffset": 1162
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 106,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1167,
+                    "endColumn": 105,
+                    "endOffset": 1268
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1353,
+                        "endColumn": 105,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1273,
+                    "endColumn": 105,
+                    "endOffset": 1374
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1459,
+                        "endColumn": 105,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1379,
+                    "endColumn": 119,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zu/values-zu.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 119,
+                        "endOffset": 1680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 112,
+                    "endOffset": 1607
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 283,
+                        "endColumn": 108,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1612,
+                    "endColumn": 207,
+                    "endOffset": 1815
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 392,
+                        "endColumn": 207,
+                        "endOffset": 599
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1820,
+                    "endColumn": 136,
+                    "endOffset": 1952
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 600,
+                        "endColumn": 132,
+                        "endOffset": 732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1957,
+                    "endColumn": 105,
+                    "endOffset": 2058
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 733,
+                        "endColumn": 101,
+                        "endOffset": 834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 2063,
+                    "endColumn": 226,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 835,
+                        "endColumn": 226,
+                        "endOffset": 1061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 130,
+                    "endOffset": 2416
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 1062,
+                        "endColumn": 126,
+                        "endOffset": 1188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2421,
+                    "endColumn": 138,
+                    "endOffset": 2555
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 1189,
+                        "endColumn": 134,
+                        "endOffset": 1323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2560,
+                    "endColumn": 190,
+                    "endOffset": 2746
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 190,
+                        "endOffset": 475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2751,
+                    "endColumn": 218,
+                    "endOffset": 2965
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 1324,
+                        "endColumn": 218,
+                        "endOffset": 1542
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2970,
+                    "endColumn": 111,
+                    "endOffset": 3077
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 1543,
+                        "endColumn": 107,
+                        "endOffset": 1650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3082,
+                    "endColumn": 195,
+                    "endOffset": 3273
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 1651,
+                        "endColumn": 195,
+                        "endOffset": 1846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3278,
+                    "endColumn": 132,
+                    "endOffset": 3406
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 0,
+                        "startOffset": 1847,
+                        "endColumn": 128,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3411,
+                    "endColumn": 216,
+                    "endOffset": 3623
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 0,
+                        "startOffset": 1976,
+                        "endColumn": 216,
+                        "endOffset": 2192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3628,
+                    "endColumn": 186,
+                    "endOffset": 3810
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 2193,
+                        "endColumn": 182,
+                        "endOffset": 2375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3815,
+                    "endColumn": 90,
+                    "endOffset": 3901
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 2376,
+                        "endColumn": 86,
+                        "endOffset": 2462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3906,
+                    "endColumn": 98,
+                    "endOffset": 4000
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 2463,
+                        "endColumn": 94,
+                        "endOffset": 2557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4005,
+                    "endColumn": 113,
+                    "endOffset": 4114
+                },
+                "from": {
+                    "file": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.0/res/values-zu/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 2558,
+                        "endColumn": 109,
+                        "endOffset": 2667
+                    }
+                }
+            }
+        ]
+    }
+]

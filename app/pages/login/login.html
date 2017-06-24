@@ -1,0 +1,12 @@
+<ActionBar title="GetFit1st">
+</ActionBar>
+
+<StackLayout>
+    <Image src="res://site_logo" stretch="none" horizontalAlignment="center"></Image>
+    <TextField id="email" hint="Email Address" keyboardType="email"
+      autocorrect="false" autocapitalizationType="none" [(ngModel)]="user.email"></TextField>
+    <TextField id="password" hint="Password" secure="true" [(ngModel)]="user.password"></TextField>
+
+    <Button text="Sign in"  class="submit-button" (tap) = "login()"></Button>
+    <Button text="Sign Up" class="submit-button" (tap) = "register()"></Button>
+</StackLayout>

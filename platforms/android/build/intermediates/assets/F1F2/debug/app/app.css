@@ -1,0 +1,9 @@
+@import url("~/platform.css");/* to declare ios or android specific styles */
+Page { /* Page is parent element of component template */
+  background-color: white;
+  font-size: 15;
+}
+TextField {
+  padding: 10;
+  font-size: 13;
+}

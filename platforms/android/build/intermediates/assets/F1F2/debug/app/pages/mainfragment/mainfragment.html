@@ -1,0 +1,24 @@
+<ActionBar title="GetFit1st" class="">
+<!--    <NavigationButton icon="res://ic_arrow_back_black_24dp" (tap)="goBack()"></NavigationButton>-->
+    
+    <ActionItem text="Activity" ios.position="right" android.position="popup" color="#8C489F"></ActionItem>
+    <ActionItem text="Account" ios.position="right" android.position="popup" color="#8C489F"></ActionItem>
+    <ActionItem text="Settings" ios.position="right" android.position="popup" color="#8C489F"></ActionItem>
+    <ActionItem text="Logout" ios.position="right" android.position="popup" color="#8C489F"></ActionItem>
+</ActionBar>
+
+
+<!-- >> tabview-html -->
+<TabView selectedIndex="0" (selectedIndexChange)="onIndexChanged($event)" sdkExampleTitle sdkToggleNavButton selectedTabTextColor="white" tabBackgroundColor="#3C5AFD" color="orange">
+	<StackLayout *tabItem="{title: 'Clients'}">
+        <router-outlet name="clientoutlet"></router-outlet>
+	</StackLayout>
+	<StackLayout *tabItem="titleAndIcon2">
+<!--		<Label text="Tab 2 items" textWrap="true" class="h2 m-x-auto" color="blue"></Label>-->
+        <router-outlet name="scheduleoutlet"></router-outlet>
+	</StackLayout>
+    <StackLayout *tabItem="titleAndIcon3">
+		<router-outlet name="chatoutlet"></router-outlet>
+	</StackLayout>
+</TabView>
+<!-- << tabview-html -->

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "829086322258",
+    "firebase_url": "https://getfit1st-app.firebaseio.com",
+    "project_id": "getfit1st-app",
+    "storage_bucket": "getfit1st-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829086322258:android:2cc3b7b7cc98f6b3",
+        "android_client_info": {
+          "package_name": "org.nativescript.Getfit1stAndroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829086322258-mkg43ugr1i8f5k1r44s87lqm83qgsqr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACy4_nJ4LanEYG4JHQP9xzCcXKqrFCEwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
