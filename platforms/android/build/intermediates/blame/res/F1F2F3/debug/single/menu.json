@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/res/merged/F1F2F3/debug/menu/view_feedback_items_activity_menu.xml",
+        "source": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.504-nstrial-release/res/menu/view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/res/merged/F1F2F3/debug/menu/edit_details.xml",
+        "source": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.504-nstrial-release/res/menu/edit_details.xml"
+    },
+    {
+        "merged": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/res/merged/F1F2F3/debug/menu/send_feedback_activity_menu.xml",
+        "source": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/Feedback-2017.1.504-nstrial-release/res/menu/send_feedback_activity_menu.xml"
+    }
+]

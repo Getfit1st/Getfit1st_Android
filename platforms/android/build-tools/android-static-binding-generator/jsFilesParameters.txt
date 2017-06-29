@@ -65,6 +65,10 @@
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-angular/value-accessors/text-value-accessor.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-angular/value-accessors/time-value-accessor.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-angular/zone-js/dist/zone-nativescript.js
+/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-drop-down/drop-down-common.js
+/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-drop-down/drop-down.js
+/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-drop-down/uglify-mangle-excludes.js
+/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-drop-down/angular/index.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/index.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl-common.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-intl/nativescript-intl.js
@@ -78,6 +82,8 @@
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/postinstall.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/webpack.config.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-plugin-firebase/scripts/winston-mock.js
+/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-telerik-ui-pro/scripts/email-prompt.js
+/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/nativescript-telerik-ui-pro/scripts/eula-prompt.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/bundle-entry-points.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application-common.js
 /Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/src/main/assets/app/tns_modules/tns-core-modules/application/application.js

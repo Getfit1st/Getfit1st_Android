@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/res/merged/F1F2F3/debug/layout-v21/notification_action.xml",
+        "source": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/res/merged/F1F2F3/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/res/merged/F1F2F3/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/res/merged/F1F2F3/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/kirubanandh/Documents/TNS/Getfit1st_Android/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

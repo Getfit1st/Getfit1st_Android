@@ -53,6 +53,14 @@ public class NativeScriptActivity extends android.app.Activity implements com.tn
 		com.tns.Runtime.callJSMethod(this, "onBackPressed", void.class, args);
 	}
 
+	public void onRequestPermissionsResult(int param_0, java.lang.String[] param_1, int[] param_2)  {
+		java.lang.Object[] args = new java.lang.Object[3];
+		args[0] = param_0;
+		args[1] = param_1;
+		args[2] = param_2;
+		com.tns.Runtime.callJSMethod(this, "onRequestPermissionsResult", void.class, args);
+	}
+
 	protected void onActivityResult(int param_0, int param_1, android.content.Intent param_2)  {
 		java.lang.Object[] args = new java.lang.Object[3];
 		args[0] = param_0;

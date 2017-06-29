@@ -1,3 +1,22 @@
-<StackLayout>
-    <label text="Whoo! You can schedule the sessions from here ....."></label>
-</StackLayout>
+
+<GridLayout rows="auto,auto,*" columns="auto,*">
+    <DropDown #dd id="dropdown"
+                      backroundColor="red"
+                      [items]="items"
+                      [(ngModel)]="selectedIndex"
+                      (selectedIndexChanged)="onchange($event)"
+                      (opened)="onopen()"
+                      (closed)="onclose()"
+                      row="0"
+                     col="0"
+                      
+                      >
+         </DropDown>
+<!--    <Label text="Today" row="0" col="1" colSpan="5" id="today"></Label>-->
+    
+    <RadCalendar id="calendar" [viewMode]="viewMode" row="2" colSpan="5"></RadCalendar>
+    <StackLayout id="float-btn" row="3" colSpan="5">
+        <Label text="+" (tap)="create()" id="float-btn-txt"></Label>
+        
+    </StackLayout>
+</GridLayout>
